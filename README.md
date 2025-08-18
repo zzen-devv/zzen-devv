@@ -32,4 +32,14 @@
 
 ---
 
+## 📊 GitHub Stats
+![Zen's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzen-devv&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzen-devv&layout=compact&theme=radical)  
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=zzen-devv&label=Profile%20views&color=0e75b6&style=flat)  
+
+---
+
 ⭐️ _"Step by step, building skills and sharing my journey."_  
