@@ -1,7 +1,5 @@
 # ✨ I'm Zen
 
-🌙 **Learning in public.**  
-
 ---
 
 ## ✨ About Me
