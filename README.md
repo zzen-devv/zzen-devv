@@ -3,16 +3,16 @@
 ___
 
 ## ✨ About Me
-- 📚 IT 공부 중
-- 🎸 음악 활동: 보컬 & 피아노/기타 커버
+- 📚 IT 분야를 학습 중인 주니어 개발자 지망생
+- 🎸 음악 활동: 보컬 & 피아노/기타 커버 영상 제작
 - 💻 관심 분야: 프로그래밍, AI, 클라우드  
 
 ___
 
 ## 🌱 Focus Areas
-- 컴퓨터 활용능력 공부
-- GitHub 기록 습관 만들기
-- 노래/악기 커버 영상 제작
+- Preparing for **Computer Utilization Level 2 certification**
+- Building consistent **GitHub contribution habits**
+- Creating **music cover projects** (vocal, piano, guitar)
 
 ___
 
@@ -24,8 +24,12 @@ ___
 ___
 
 ## 📚 Languages I Use
+*(추후 자신 있게 다룰 수 있을 때 여기에 추가)*
 
 ## 🛠 Tools & Frameworks I Use
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 ___
 
@@ -40,9 +44,6 @@ ___
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 
 ## 🔧 Tools & Frameworks I'm Learning
-![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
@@ -58,4 +59,4 @@ ___
 
 ___
 
-⭐️ _"Step by step, building skills and sharing my journey."_  
+⭐️ _"Step by step 🌱 growing as a developer while sharing my journey."_  
