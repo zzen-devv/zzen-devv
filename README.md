@@ -9,7 +9,7 @@ ___
 
 ___
 
-## 🔭 Currently Working On
+## 🌱 Focus Areas
 - 컴퓨터 활용능력 공부
 - GitHub 기록 습관 만들기
 - 노래/악기 커버 영상 제작
@@ -23,7 +23,13 @@ ___
 
 ___
 
-## 📚 Languages
+## 📚 Languages I Use
+
+## 🛠 Tools & Frameworks I Use
+
+___
+
+## 🚀 Languages I'm Learning
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -33,9 +39,7 @@ ___
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 
-___
-
-## 🛠 Tools & Frameworks
+## 🔧 Tools & Frameworks I'm Learning
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
