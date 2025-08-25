@@ -1,70 +1,57 @@
-# ✨ I'm Zen
+# I'm Zen
 
-___
+---
 
 ## ✨ About Me
-- 📚 IT 분야를 학습 중인 주니어 개발자 지망생
-- 🎸 음악 활동: 보컬 & 피아노/기타 커버 영상 제작
-- 💻 관심 분야: 프로그래밍, AI, 클라우드  
+- 📚 Junior developer in training, building a foundation in programming and IT fundamentals  
+- 🎵 Music creator producing vocal and piano/guitar covers  
+- 💻 Interested in backend development, AI, and cloud technologies  
 
-___
+---
 
 ## 🌱 Focus Areas
-- Preparing for **Computer Utilization Level 2 certification**
-- Building consistent **GitHub contribution habits**
-- Creating **music cover projects** (vocal, piano, guitar)
+- **Computer Utilization Level 2 certification** preparation  
+- Consistent **GitHub contributions** through personal projects  
+- Creating **music covers** (vocal, piano, guitar)  
 
-___
+---
 
-## 📫 How to Reach Me
-- YouTube: [Zen](https://www.youtube.com/@zen_nxv)  
-- Instagram: [zen_nx](https://www.instagram.com/zen_nx)  
-- TikTok: [zen_2o](https://www.tiktok.com/@zen_2o)  
+## 📫 Contact
+- [![YouTube](https://img.shields.io/badge/YouTube-%40zen__nxv-333333?logo=youtube&logoColor=white)](https://www.youtube.com/@zen_nxv)  
+- [![Instagram](https://img.shields.io/badge/Instagram-%40zen__nx-333333?logo=instagram&logoColor=white)](https://www.instagram.com/zen_nx)  
+- [![TikTok](https://img.shields.io/badge/TikTok-%40zen__2o-333333?logo=tiktok&logoColor=white)](https://www.tiktok.com/@zen_2o)  
+- [![Gmail](https://img.shields.io/badge/Email-zzen.devv%40gmail.com-333333?logo=gmail&logoColor=white)](mailto:zzen.devv@gmail.com)  
 
-___
+---
 
-## 📚 Languages I Use
-*(추후 자신 있게 다룰 수 있을 때 추가)*
+## 📚 Tech Stack
 
-## 🛠 Tools & Frameworks I Use
-![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
+### 🛠 Using
+-
+
+### 🚀 Learning Path
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-
-___
-
-## 🚀 Languages I'm Learning
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
-
-## 🔧 Tools & Frameworks I'm Learning
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
 
-___
-
-## 🌟 Languages I Plan to Learn
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
-
-___
+---
 
 ## 📊 GitHub Stats
-![Zen's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzen-devv&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzen-devv&layout=compact&theme=radical)  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zzen-devv&show_icons=true&theme=swift" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzen-devv&layout=compact&theme=swift" height="150"/>
+</p>
 
-___
+---
 
-![Profile views](https://komarev.com/ghpvc/?username=zzen-devv&label=Profile%20views&color=0e75b6&style=flat)  
+![Profile views](https://komarev.com/ghpvc/?username=zzen-devv&label=Profile%20views&color=0e75b6&style=flat)
 
-___
-
-⭐️ _"Step by step 🌱 growing as a developer while sharing my journey."_  
+⭐️ _"Step by step, growing into a backend and AI developer."_  
