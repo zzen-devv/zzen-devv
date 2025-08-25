@@ -49,6 +49,14 @@ ___
 
 ___
 
+## 🌟 Languages I Plan to Learn
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
+
+___
+
 ## 📊 GitHub Stats
 ![Zen's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzen-devv&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzen-devv&layout=compact&theme=radical)  
