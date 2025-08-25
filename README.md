@@ -24,7 +24,7 @@ ___
 ___
 
 ## 📚 Languages I Use
-*(추후 자신 있게 다룰 수 있을 때 여기에 추가)*
+*(추후 자신 있게 다룰 수 있을 때 추가)*
 
 ## 🛠 Tools & Frameworks I Use
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
