@@ -1,18 +1,18 @@
-# I'm Zen
+# Hi, I'm Zen
 
 ---
 
 ## ✨ About Me
-- 📚 Junior developer in training, building a foundation in programming and IT fundamentals  
-- 🎵 Music creator producing vocal and piano/guitar covers  
-- 💻 Interested in backend development, AI, and cloud technologies  
+- 📚 Junior developer focusing on programming and IT foundations  
+- 🎵 Music creator (vocal, piano, guitar)  
+- 💻 Interested in backend, AI, and cloud technologies  
 
 ---
 
 ## 🌱 Focus Areas
-- **Computer Utilization Level 2 certification** preparation  
-- Consistent **GitHub contributions** through personal projects  
-- Creating **music covers** (vocal, piano, guitar)  
+- Preparing for the **Computer Utilization Level 2** certification exam  
+- Maintaining consistent **GitHub contributions**  
+- Producing vocal, piano, and guitar covers  
 
 ---
 
@@ -27,6 +27,7 @@
 ## 📚 Tech Stack
 
 ### 🛠 Using
+
 -
 
 ### 🚀 Learning Path
@@ -54,4 +55,4 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=zzen-devv&label=Profile%20views&color=0e75b6&style=flat)
 
-⭐️ _"Step by step, growing into a backend and AI developer."_  
+⭐️ _"Step by step toward backend and AI development."_  
