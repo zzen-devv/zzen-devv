@@ -27,7 +27,7 @@
 ## 📚 Tech Stack
 
 ### 🛠 Using
--(Add Later)
+-
 
 ### 🚀 Learning Path
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
