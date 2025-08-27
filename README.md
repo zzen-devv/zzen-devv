@@ -3,20 +3,21 @@
 ---
 
 ## ✨ About Me
-- 📚 Junior developer building strong foundations in backend and AI technologies  
-- 💻 Interested in cloud, scalable systems, and modern development practices  
+- 📚 Junior developer building strong foundations in backend and AI technologies
+- 💻 Interested in cloud, scalable systems, and modern development practices
 
 ---
 
 ## 🌱 Focus Areas
-- Preparing for the **Computer Utilization Level 2** certification exam  
-- Maintaining consistent **GitHub contributions**  
-- Building backend projects with **Spring** and **FastAPI**  
+- Preparing for the **Computer Utilization Level 2** certification exam
+- Maintaining consistent **GitHub contributions**
+- Learning core programming: **Python → Java → JavaScript**
+- Building backend projects with **Spring** and **FastAPI**
 
 ---
 
 ## 📫 Contact
-- [![Gmail](https://img.shields.io/badge/Email-zzen.devv%40gmail.com-333333?logo=gmail&logoColor=white)](mailto:zzen.devv@gmail.com)  
+- [![Gmail](https://img.shields.io/badge/Email-zzen.devv%40gmail.com-333333?logo=gmail&logoColor=white)](mailto:zzen.devv@gmail.com)
 
 ---
 
@@ -34,6 +35,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+
+### 🌐 Interested In
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
 
@@ -49,4 +52,4 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=zzen-devv&label=Profile%20views&color=0e75b6&style=flat)
 
-⭐️ _"Step by step toward backend and AI development."_  
+⭐️ _"Step by step toward backend and AI development."_
