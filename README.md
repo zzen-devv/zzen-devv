@@ -3,14 +3,15 @@
 ---
 
 ## ✨ About Me
-- 📚 Junior developer focusing on programming and IT foundations  
-- 💻 Interested in backend, AI, and cloud technologies  
+- 📚 Junior developer building strong foundations in backend and AI technologies  
+- 💻 Interested in cloud, scalable systems, and modern development practices  
 
 ---
 
 ## 🌱 Focus Areas
 - Preparing for the **Computer Utilization Level 2** certification exam  
 - Maintaining consistent **GitHub contributions**  
+- Building backend projects with **Spring** and **FastAPI**  
 
 ---
 
@@ -22,16 +23,14 @@
 ## 📚 Tech Stack
 
 ### 🛠 Using
-
--
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 ### 🚀 Learning Path
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
