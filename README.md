@@ -4,7 +4,6 @@
 
 ## ✨ About Me
 - 📚 Junior developer focusing on programming and IT foundations  
-- 🎵 Music creator (vocal, piano, guitar)  
 - 💻 Interested in backend, AI, and cloud technologies  
 
 ---
@@ -12,14 +11,10 @@
 ## 🌱 Focus Areas
 - Preparing for the **Computer Utilization Level 2** certification exam  
 - Maintaining consistent **GitHub contributions**  
-- Producing vocal, piano, and guitar covers  
 
 ---
 
 ## 📫 Contact
-- [![YouTube](https://img.shields.io/badge/YouTube-%40zen__nxv-333333?logo=youtube&logoColor=white)](https://www.youtube.com/@zen_nxv)  
-- [![Instagram](https://img.shields.io/badge/Instagram-%40zen__nx-333333?logo=instagram&logoColor=white)](https://www.instagram.com/zen_nx)  
-- [![TikTok](https://img.shields.io/badge/TikTok-%40zen__2o-333333?logo=tiktok&logoColor=white)](https://www.tiktok.com/@zen_2o)  
 - [![Gmail](https://img.shields.io/badge/Email-zzen.devv%40gmail.com-333333?logo=gmail&logoColor=white)](mailto:zzen.devv@gmail.com)  
 
 ---
