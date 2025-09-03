@@ -51,5 +51,3 @@
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=zzen-devv&label=Profile%20views&color=0e75b6&style=flat)
-
-_"Step by step toward backend and AI development."_
