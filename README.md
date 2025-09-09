@@ -1,21 +1,21 @@
 # Hi, I'm Zen
 
----
+___
 
 ## ✨ About Me
 - Junior developer focused on **backend & scalable systems**
 - Interested in **cloud, data-driven services, and game/entertainment platforms**
-- Building solid foundations to become a versatile engineer
+- Building strong foundations to grow as a versatile engineer
 
----
+___
 
 ## 📚 Focus Areas
 - **Backend**: Python, Java, JavaScript, TypeScript, Node.js
 - **Frameworks**: Spring, FastAPI, React
 - **Cloud & DevOps**: AWS, Docker, Kubernetes
-- **Exploring**: AI fundamentals & data engineering basics
+- **Currently Exploring**: AI fundamentals & data engineering basics
 
----
+___
 
 ## 🛠 Tech Stack
 
@@ -33,13 +33,13 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-
-**Interested In**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
 
----
+**Exploring**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
+___
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -47,6 +47,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzen-devv&layout=compact&theme=swift" height="180"/>
 </p>
 
----
+___
+
+## 📫 Contact
+[![Gmail](https://img.shields.io/badge/Email-zzen.devv%40gmail.com-333333?logo=gmail&logoColor=white)](mailto:zzen.devv@gmail.com)
+
+___
 
 ![Profile views](https://komarev.com/ghpvc/?username=zzen-devv&label=Profile%20views&color=0e75b6&style=flat)
