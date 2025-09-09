@@ -53,35 +53,11 @@
 ---
 
 ## 📊 GitHub Stats  
-
-<!-- Stats: 자동 라이트/다크 전환 -->
-<p align="left">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=zzen-devv&show_icons=true&theme=tokyonight&hide_border=false"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=zzen-devv&show_icons=true&theme=swift&hide_border=false"
-      height="150"
-      alt="GitHub Stats"
-    />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zzen-devv&layout=compact&theme=tokyonight&hide_border=false"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzen-devv&layout=compact&theme=swift&hide_border=false"
-      height="150"
-      alt="Top Languages"
-    />
-  </picture>
-</p>
+<p align="left">  
+  <img src="https://github-readme-stats.vercel.app/api?username=zzen-devv&show_icons=true&theme=swift" height="150"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzen-devv&layout=compact&theme=swift" height="150"/>  
+</p>  
 
 ---
 
-<!-- Profile Views: 자동 라이트/다크 전환 (GitHub 전용 해시 태그) -->
-<img src="https://komarev.com/ghpvc/?username=zzen-devv&label=Profile%20views&color=0e75b6&style=flat#gh-light-mode-only" alt="Profile views (light)" />
-<img src="https://komarev.com/ghpvc/?username=zzen-devv&label=Profile%20views&color=gray&style=flat#gh-dark-mode-only" alt="Profile views (dark)" />
+![Profile views](https://komarev.com/ghpvc/?username=zzen-devv&label=Profile%20views&color=0e75b6&style=flat)  
