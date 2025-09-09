@@ -43,7 +43,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zzen-devv&show_icons=true&theme=swift" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zzen-devv&show_icons=true&theme=swift" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzen-devv&layout=compact&theme=swift" height="180"/>
 </p>
 
