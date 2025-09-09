@@ -1,21 +1,21 @@
 # Hi, I'm Zen
 
-___
+---
 
 ## ✨ About Me
 - Junior developer focused on **backend & scalable systems**
 - Interested in **cloud, data-driven services, and game/entertainment platforms**
-- Building strong foundations to grow as a versatile engineer
+- Building strong foundations to become a versatile developer
 
-___
+---
 
 ## 📚 Focus Areas
 - **Backend**: Python, Java, JavaScript, TypeScript, Node.js
 - **Frameworks**: Spring, FastAPI, React
-- **Cloud & DevOps**: AWS, Docker, Kubernetes
+- **Cloud & DevOps**: Docker, Kubernetes
 - **Currently Exploring**: AI fundamentals & data engineering basics
 
-___
+---
 
 ## 🛠 Tech Stack
 
@@ -39,7 +39,7 @@ ___
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
-___
+---
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -47,11 +47,11 @@ ___
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzen-devv&layout=compact&theme=swift" height="180"/>
 </p>
 
-___
+---
 
 ## 📫 Contact
-[![Gmail](https://img.shields.io/badge/Email-zzen.devv%40gmail.com-333333?logo=gmail&logoColor=white)](mailto:zzen.devv@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-zzen.devv%40gmail.com-333333?logo=gmail&logoColor=white)](mailto:zzen.devv@gmail.com)  
 
-___
+---
 
 ![Profile views](https://komarev.com/ghpvc/?username=zzen-devv&label=Profile%20views&color=0e75b6&style=flat)
