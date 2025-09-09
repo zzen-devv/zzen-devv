@@ -50,7 +50,7 @@
 ---
 
 ## 📫 Contact
-[![Gmail](https://img.shields.io/badge/Email-zzen.devv%40gmail.com-333333?logo=gmail&logoColor=white)](mailto:zzen.devv@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-zzen.devv%40gmail.com-333333?logo=gmail&logoColor=white)](mailto:zzen.devv@gmail.com)
 
 ---
 
