@@ -10,7 +10,7 @@
 ---
 
 ## 📚 Focus Areas
-- **Backend**: Python, Java, JavaScript
+- **Backend**: Python, Java, JavaScript, TypeScript, Node.js
 - **Frameworks**: Spring, FastAPI, React
 - **Cloud & DevOps**: AWS, Docker, Kubernetes
 - **Exploring**: AI & data
@@ -28,6 +28,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
