@@ -5,7 +5,7 @@
 ## ✨ About Me
 - Junior developer focused on **backend & scalable systems**
 - Interested in **cloud, data-driven services, and game/entertainment platforms**
-- Building strong foundations to grow into a versatile engineer
+- Building solid foundations to become a versatile engineer
 
 ---
 
@@ -13,7 +13,7 @@
 - **Backend**: Python, Java, JavaScript, TypeScript, Node.js
 - **Frameworks**: Spring, FastAPI, React
 - **Cloud & DevOps**: AWS, Docker, Kubernetes
-- **Exploring**: AI & data
+- **Exploring**: AI fundamentals & data engineering basics
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zzen-devv&show_icons=true&theme=swift" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zzen-devv&show_icons=true&theme=swift" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzen-devv&layout=compact&theme=swift" height="150"/>
 </p>
 
