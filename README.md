@@ -1,59 +1,49 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8D8FF,40:C8E8FF,100:DCF2FF&height=200&section=header&text=Zen&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Junior%20Backend%20Developer%20%7C%20Building%20systems%20that%20scale&descAlignY=58&descSize=15&descColor=EAF4FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AB8E8,50:90C8F4,100:B0D8FF&height=200&section=header&text=Zen&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Junior%20Backend%20Developer%20%7C%20Building%20systems%20that%20scale&descAlignY=58&descSize=15&descColor=E4F4FF" width="100%"/>
 
 <br/>
 
 <pre>
 $ whoami
   Zen — junior backend developer
-  Interest: cloud-native systems · data engineering · game & entertainment platforms
+
+$ cat interests.txt
+  cloud-native  ·  data engineering
+  game & entertainment platforms
 
 $ cat philosophy.txt
   "Understand the system before you optimize it."
 
 $ ls current/
-  [▓▓▓▓▓▓▓░░░]  backend fundamentals      — Python, Java, Node.js
-  [▓▓▓▓▓░░░░░]  cloud & infrastructure    — AWS, Docker, Kubernetes
-  [▓▓▓░░░░░░░]  data engineering & AI     — pipelines, fundamentals
+  [▓▓▓▓▓▓▓░░░]  backend fundamentals
+  [▓▓▓▓▓░░░░░]  cloud & infrastructure
+  [▓▓▓░░░░░░░]  data engineering & AI
 </pre>
 
 <br/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8E4FF,100:D8EEFF&height=44&text=Building&fontSize=22&fontColor=4A7FA8&fontAlignY=63&fontAlign=6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=52&text=Building&fontSize=28&fontColor=FFFFFF&fontAlignY=65&fontAlign=6.5" width="100%"/>
 
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <pre>
-[ PROJECT_01 ]
-FastAPI REST Backend
-──────────────────
+<pre>
+[ PROJECT_01 ]  FastAPI REST Backend
 Stack  : Python · FastAPI
 Goal   : Auth, CRUD, DB design
 Status : In progress
-      </pre>
-    </td>
-    <td width="50%" valign="top">
-      <pre>
-[ PROJECT_02 ]
-Cloud Deployment Pipeline
-─────────────────────────
+──────────────────────────────────────
+[ PROJECT_02 ]  Cloud Deployment Pipeline
 Stack  : AWS · Docker · GitHub Actions
 Goal   : CI/CD, containerization
 Status : Planning
-      </pre>
-    </td>
-  </tr>
-</table>
+</pre>
 
 <br/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8E4FF,100:D8EEFF&height=44&text=Stack&fontSize=22&fontColor=4A7FA8&fontAlignY=63&fontAlign=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=52&text=Stack&fontSize=28&fontColor=FFFFFF&fontAlignY=65&fontAlign=4.5" width="100%"/>
 
 <br/>
 
@@ -88,15 +78,15 @@ Status : Planning
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8E4FF,100:D8EEFF&height=44&text=Stats&fontSize=22&fontColor=4A7FA8&fontAlignY=63&fontAlign=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=52&text=Stats&fontSize=28&fontColor=FFFFFF&fontAlignY=65&fontAlign=4.5" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zzen-devv&show_icons=true&bg_color=F4F9FF&title_color=4A7FA8&text_color=6A90A8&icon_color=7AB0D8&border_color=C8E0FF&rank_icon=github&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zzen-devv&show_icons=true&bg_color=F4F9FF&title_color=4A7FA8&text_color=6A90A8&icon_color=7AB8E8&border_color=B8D8F0&rank_icon=github&include_all_commits=true" height="165"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=zzen-devv&background=F4F9FF&border=C8E0FF&ring=7AB0D8&fire=FFD4B8&currStreakLabel=4A7FA8&sideLabels=6A90A8&dates=8AAAC4&currStreakNum=4A7FA8&sideNums=4A7FA8&stroke=C8E0FF" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=zzen-devv&background=F4F9FF&border=B8D8F0&ring=7AB8E8&fire=FFD4B8&currStreakLabel=4A7FA8&sideLabels=6A90A8&dates=8AAAC4&currStreakNum=4A7FA8&sideNums=4A7FA8&stroke=B8D8F0" height="165"/>
 
 </div>
 
@@ -104,7 +94,7 @@ Status : Planning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzen-devv&layout=compact&bg_color=F4F9FF&title_color=4A7FA8&text_color=6A90A8&border_color=C8E0FF&langs_count=8" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzen-devv&layout=compact&bg_color=F4F9FF&title_color=4A7FA8&text_color=6A90A8&border_color=B8D8F0&langs_count=8" width="420"/>
 
 </div>
 
@@ -112,7 +102,7 @@ Status : Planning
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zzen-devv&bg_color=F4F9FF&color=4A7FA8&line=7AB0D8&point=5890B8&area=true&area_color=C8E0FF&hide_border=false&border_color=C8E0FF&radius=6" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zzen-devv&bg_color=F4F9FF&color=4A7FA8&line=7AB8E8&point=5890B8&area=true&area_color=C8E0FF&hide_border=false&border_color=B8D8F0&radius=6" width="96%"/>
 
 </div>
 
@@ -120,7 +110,7 @@ Status : Planning
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8E4FF,100:D8EEFF&height=44&text=Contact&fontSize=22&fontColor=4A7FA8&fontAlignY=63&fontAlign=5.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=52&text=Contact&fontSize=28&fontColor=FFFFFF&fontAlignY=65&fontAlign=6" width="100%"/>
 
 <br/>
 
@@ -134,4 +124,4 @@ Status : Planning
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCF2FF,60:C8E8FF,100:B8D8FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0D8FF,50:90C8F4,100:7AB8E8&height=100&section=footer" width="100%"/>
