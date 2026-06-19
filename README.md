@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EDE7FF,60:E0EEFF,100:DCF5ED&height=200&section=header&text=Zen&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Junior%20Backend%20Developer%20%7C%20Building%20systems%20that%20scale&descAlignY=58&descSize=15&descColor=E8E0FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0EBFF,50:E8F0FF,100:E5F8F0&height=200&section=header&text=Zen&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Junior%20Backend%20Developer%20%7C%20Building%20systems%20that%20scale&descAlignY=58&descSize=15&descColor=EDE8FF" width="100%"/>
 
 <br/>
 
@@ -20,7 +20,7 @@ $ ls current/
 
 ---
 
-### 🔭 Building
+<img src="https://capsule-render.vercel.app/api?type=rect&color=EEE8FF&height=36&text=Building&fontSize=14&fontColor=9B8ABF&fontAlignY=62&fontAlign=5.5" width="100%"/>
 
 <br/>
 
@@ -49,9 +49,11 @@ Status : Planning
   </tr>
 </table>
 
+<br/>
+
 ---
 
-### 🎀 Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=EEE8FF&height=36&text=Stack&fontSize=14&fontColor=9B8ABF&fontAlignY=62&fontAlign=4" width="100%"/>
 
 <br/>
 
@@ -82,9 +84,13 @@ Status : Planning
 ![VS Code](https://img.shields.io/badge/VS%20Code-CCE0FF?style=flat&logo=visualstudiocode&logoColor=305090)
 ![Postman](https://img.shields.io/badge/Postman-FFE0CC?style=flat&logo=postman&logoColor=A06030)
 
+<br/>
+
 ---
 
-### 📊 Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=EEE8FF&height=36&text=Stats&fontSize=14&fontColor=9B8ABF&fontAlignY=62&fontAlign=4" width="100%"/>
+
+<br/>
 
 <div align="center">
 
@@ -110,30 +116,13 @@ Status : Planning
 
 </div>
 
----
-
-### 🗺 Roadmap
-
 <br/>
 
-<pre>
-2025 ──────────────────────────────────────────────────────── 2026+
-
-  [✓] Git & GitHub basics
-  [✓] Python fundamentals
-  [✓] JavaScript / TypeScript
-  [→] Backend with FastAPI & Spring Boot         ← now
-  [→] Database design (SQL + NoSQL)              ← now
-  [ ] AWS core services (EC2, S3, RDS, Lambda)
-  [ ] Docker & Kubernetes in production
-  [ ] Data pipeline basics
-  [ ] System design fundamentals
-  [ ] Build something real for a real user
-</pre>
-
 ---
 
-### 🌿 Contact
+<img src="https://capsule-render.vercel.app/api?type=rect&color=EEE8FF&height=36&text=Contact&fontSize=14&fontColor=9B8ABF&fontAlignY=62&fontAlign=5" width="100%"/>
+
+<br/>
 
 <div align="center">
 
@@ -145,4 +134,4 @@ Status : Planning
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCF5ED,50:E0EEFF,100:EDE7FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5F8F0,50:E8F0FF,100:F0EBFF&height=100&section=footer" width="100%"/>
