@@ -2,6 +2,8 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=6" width="100%"/>
+
 <pre>
 $ whoami
   Zen — junior backend developer
@@ -11,19 +13,21 @@ $ cat interests.txt
   game & entertainment platforms
 
 $ cat philosophy.txt
-  "Understand the system before you optimize it."
+  "Understand before you optimize."
 
 $ ls current/
-  [▓▓▓▓▓▓▓░░░]  backend fundamentals
-  [▓▓▓▓▓░░░░░]  cloud & infrastructure
-  [▓▓▓░░░░░░░]  data engineering & AI
+  [========--]  backend fundamentals
+  [======----]  cloud & infrastructure
+  [====------]  data engineering & AI
 </pre>
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:90C8F4,50:7AB8E8,100:5898C8&height=4" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=58&text=Building&fontSize=28&fontColor=FFFFFF&fontAlignY=62&fontAlign=50" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=78&text=Building&fontSize=30&fontColor=FFFFFF&fontAlignY=58&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -41,9 +45,11 @@ Status : Planning
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:90C8F4,50:7AB8E8,100:5898C8&height=4" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=58&text=Stack&fontSize=28&fontColor=FFFFFF&fontAlignY=62&fontAlign=50" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=78&text=Stack&fontSize=30&fontColor=FFFFFF&fontAlignY=58&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -76,9 +82,11 @@ Status : Planning
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:90C8F4,50:7AB8E8,100:5898C8&height=4" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=58&text=Stats&fontSize=28&fontColor=FFFFFF&fontAlignY=62&fontAlign=50" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=78&text=Stats&fontSize=30&fontColor=FFFFFF&fontAlignY=58&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -108,9 +116,11 @@ Status : Planning
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:90C8F4,50:7AB8E8,100:5898C8&height=4" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=58&text=Contact&fontSize=28&fontColor=FFFFFF&fontAlignY=62&fontAlign=50" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=78&text=Contact&fontSize=30&fontColor=FFFFFF&fontAlignY=58&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -124,4 +134,4 @@ Status : Planning
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0D8FF,50:90C8F4,100:7AB8E8&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5898C8,50:7AB8E8,100:90C8F4&height=100&section=footer" width="100%"/>
