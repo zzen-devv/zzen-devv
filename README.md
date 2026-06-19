@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0EBFF,50:E8F0FF,100:E5F8F0&height=200&section=header&text=Zen&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Junior%20Backend%20Developer%20%7C%20Building%20systems%20that%20scale&descAlignY=58&descSize=15&descColor=EDE8FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8D8FF,40:C8E8FF,100:DCF2FF&height=200&section=header&text=Zen&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Junior%20Backend%20Developer%20%7C%20Building%20systems%20that%20scale&descAlignY=58&descSize=15&descColor=EAF4FF" width="100%"/>
 
 <br/>
 
@@ -20,7 +20,7 @@ $ ls current/
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=EEE8FF&height=36&text=Building&fontSize=14&fontColor=9B8ABF&fontAlignY=62&fontAlign=5.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8E4FF,100:D8EEFF&height=44&text=Building&fontSize=22&fontColor=4A7FA8&fontAlignY=63&fontAlign=6" width="100%"/>
 
 <br/>
 
@@ -53,7 +53,7 @@ Status : Planning
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=EEE8FF&height=36&text=Stack&fontSize=14&fontColor=9B8ABF&fontAlignY=62&fontAlign=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8E4FF,100:D8EEFF&height=44&text=Stack&fontSize=22&fontColor=4A7FA8&fontAlignY=63&fontAlign=4" width="100%"/>
 
 <br/>
 
@@ -62,41 +62,41 @@ Status : Planning
 ![Python](https://img.shields.io/badge/Python-DDD0FF?style=flat&logo=python&logoColor=7060A8)
 ![Java](https://img.shields.io/badge/Java-FFE0CC?style=flat&logo=openjdk&logoColor=A06030)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFF8CC?style=flat&logo=javascript&logoColor=907820)
-![TypeScript](https://img.shields.io/badge/TypeScript-CCE0FF?style=flat&logo=typescript&logoColor=305090)
+![TypeScript](https://img.shields.io/badge/TypeScript-C8E4FF?style=flat&logo=typescript&logoColor=305090)
 
 **Frameworks & Runtime**
 
 ![Node.js](https://img.shields.io/badge/Node.js-C8EEDD?style=flat&logo=node.js&logoColor=2D7050)
 ![Spring](https://img.shields.io/badge/Spring-C8EEDD?style=flat&logo=spring&logoColor=2D7050)
 ![FastAPI](https://img.shields.io/badge/FastAPI-C8EEDD?style=flat&logo=fastapi&logoColor=2D7050)
-![React](https://img.shields.io/badge/React-CCE0FF?style=flat&logo=react&logoColor=305090)
+![React](https://img.shields.io/badge/React-C8E4FF?style=flat&logo=react&logoColor=305090)
 
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-FFE0CC?style=flat&logo=amazonaws&logoColor=A06030)
-![Docker](https://img.shields.io/badge/Docker-CCE0FF?style=flat&logo=docker&logoColor=305090)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-DDD0FF?style=flat&logo=kubernetes&logoColor=7060A8)
+![Docker](https://img.shields.io/badge/Docker-C8E4FF?style=flat&logo=docker&logoColor=305090)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-D8ECFF?style=flat&logo=kubernetes&logoColor=4A7FA8)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-FFE0CC?style=flat&logo=git&logoColor=A06030)
-![GitHub](https://img.shields.io/badge/GitHub-DDD0FF?style=flat&logo=github&logoColor=7060A8)
-![VS Code](https://img.shields.io/badge/VS%20Code-CCE0FF?style=flat&logo=visualstudiocode&logoColor=305090)
+![GitHub](https://img.shields.io/badge/GitHub-D8ECFF?style=flat&logo=github&logoColor=4A7FA8)
+![VS Code](https://img.shields.io/badge/VS%20Code-C8E4FF?style=flat&logo=visualstudiocode&logoColor=305090)
 ![Postman](https://img.shields.io/badge/Postman-FFE0CC?style=flat&logo=postman&logoColor=A06030)
 
 <br/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=EEE8FF&height=36&text=Stats&fontSize=14&fontColor=9B8ABF&fontAlignY=62&fontAlign=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8E4FF,100:D8EEFF&height=44&text=Stats&fontSize=22&fontColor=4A7FA8&fontAlignY=63&fontAlign=4" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zzen-devv&show_icons=true&bg_color=FAF8FF&title_color=9B8ABF&text_color=8A7DA0&icon_color=C4B0FF&border_color=E8DCFF&rank_icon=github&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zzen-devv&show_icons=true&bg_color=F4F9FF&title_color=4A7FA8&text_color=6A90A8&icon_color=7AB0D8&border_color=C8E0FF&rank_icon=github&include_all_commits=true" height="165"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=zzen-devv&background=FAF8FF&border=E8DCFF&ring=C4B0FF&fire=FFD4B8&currStreakLabel=9B8ABF&sideLabels=8A7DA0&dates=B0A8C4&currStreakNum=9B8ABF&sideNums=9B8ABF&stroke=E8DCFF" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=zzen-devv&background=F4F9FF&border=C8E0FF&ring=7AB0D8&fire=FFD4B8&currStreakLabel=4A7FA8&sideLabels=6A90A8&dates=8AAAC4&currStreakNum=4A7FA8&sideNums=4A7FA8&stroke=C8E0FF" height="165"/>
 
 </div>
 
@@ -104,7 +104,7 @@ Status : Planning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzen-devv&layout=compact&bg_color=FAF8FF&title_color=9B8ABF&text_color=8A7DA0&border_color=E8DCFF&langs_count=8" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzen-devv&layout=compact&bg_color=F4F9FF&title_color=4A7FA8&text_color=6A90A8&border_color=C8E0FF&langs_count=8" width="420"/>
 
 </div>
 
@@ -112,7 +112,7 @@ Status : Planning
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zzen-devv&bg_color=FAF8FF&color=9B8ABF&line=C4B0FF&point=B0A0D0&area=true&area_color=EDE7FF&hide_border=false&border_color=E8DCFF&radius=6" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zzen-devv&bg_color=F4F9FF&color=4A7FA8&line=7AB0D8&point=5890B8&area=true&area_color=C8E0FF&hide_border=false&border_color=C8E0FF&radius=6" width="96%"/>
 
 </div>
 
@@ -120,7 +120,7 @@ Status : Planning
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=EEE8FF&height=36&text=Contact&fontSize=14&fontColor=9B8ABF&fontAlignY=62&fontAlign=5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8E4FF,100:D8EEFF&height=44&text=Contact&fontSize=22&fontColor=4A7FA8&fontAlignY=63&fontAlign=5.5" width="100%"/>
 
 <br/>
 
@@ -128,10 +128,10 @@ Status : Planning
 
 [![Gmail](https://img.shields.io/badge/zzen.devv%40gmail.com-FFE0CC?style=flat&logo=gmail&logoColor=A06030)](mailto:zzen.devv@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/@zzen--devv-DDD0FF?style=flat&logo=github&logoColor=7060A8)](https://github.com/zzen-devv)
+[![GitHub](https://img.shields.io/badge/@zzen--devv-C8E4FF?style=flat&logo=github&logoColor=4A7FA8)](https://github.com/zzen-devv)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5F8F0,50:E8F0FF,100:F0EBFF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCF2FF,60:C8E8FF,100:B8D8FF&height=100&section=footer" width="100%"/>
