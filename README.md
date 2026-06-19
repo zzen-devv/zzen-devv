@@ -2,24 +2,25 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=6" width="100%"/>
+<div align="center">
 
-<pre>
-$ whoami
-  Zen — junior backend developer
+![whoami](https://img.shields.io/badge/whoami-junior%20backend%20developer-C8E4FF?style=for-the-badge&labelColor=5898C8)
 
-$ cat interests.txt
-  cloud-native  ·  data engineering
-  game & entertainment platforms
+![focus](https://img.shields.io/badge/focus-cloud%20%C2%B7%20data%20engineering%20%C2%B7%20game%20platforms-C8EEDD?style=for-the-badge&labelColor=5898C8)
 
-$ cat philosophy.txt
-  "Understand before you optimize."
+![philosophy](https://img.shields.io/badge/philosophy-understand%20before%20you%20optimize-DDD0FF?style=for-the-badge&labelColor=5898C8)
 
-$ ls current/
-  [========--]  backend fundamentals
-  [======----]  cloud & infrastructure
-  [====------]  data engineering & AI
-</pre>
+</div>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/backend%20fundamentals-80%25-DDD0FF?style=flat-square&labelColor=7AB8E8)
+![](https://img.shields.io/badge/cloud%20%26%20infrastructure-50%25-C8E4FF?style=flat-square&labelColor=7AB8E8)
+![](https://img.shields.io/badge/data%20engineering%20%26%20AI-30%25-C8EEDD?style=flat-square&labelColor=7AB8E8)
+
+</div>
 
 <br/>
 
@@ -31,17 +32,19 @@ $ ls current/
 
 <br/>
 
-<pre>
-[ PROJECT_01 ]  FastAPI REST Backend
-Stack  : Python · FastAPI
-Goal   : Auth, CRUD, DB design
-Status : In progress
-──────────────────────────────────────
-[ PROJECT_02 ]  Cloud Deployment Pipeline
-Stack  : AWS · Docker · GitHub Actions
-Goal   : CI/CD, containerization
-Status : Planning
-</pre>
+![](https://img.shields.io/badge/PROJECT__01-FastAPI%20REST%20Backend-DDD0FF?style=for-the-badge&labelColor=7AB8E8)
+
+![](https://img.shields.io/badge/Stack-Python%20%C2%B7%20FastAPI-C8E4FF?style=flat&labelColor=90C8F4)
+![](https://img.shields.io/badge/Goal-Auth%2C%20CRUD%2C%20DB%20design-C8E4FF?style=flat&labelColor=90C8F4)
+![](https://img.shields.io/badge/Status-In%20progress-FFE0CC?style=flat&labelColor=D4906A)
+
+<br/>
+
+![](https://img.shields.io/badge/PROJECT__02-Cloud%20Deployment%20Pipeline-DDD0FF?style=for-the-badge&labelColor=7AB8E8)
+
+![](https://img.shields.io/badge/Stack-AWS%20%C2%B7%20Docker%20%C2%B7%20GitHub%20Actions-C8E4FF?style=flat&labelColor=90C8F4)
+![](https://img.shields.io/badge/Goal-CI%2FCD%2C%20containerization-C8E4FF?style=flat&labelColor=90C8F4)
+![](https://img.shields.io/badge/Status-Planning-C8EEDD?style=flat&labelColor=5A9078)
 
 <br/>
 
