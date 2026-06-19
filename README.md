@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AB8E8,50:90C8F4,100:B0D8FF&height=200&section=header&text=Zen&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Junior%20Backend%20Developer%20%7C%20Building%20systems%20that%20scale&descAlignY=58&descSize=15&descColor=E4F4FF&fontFamily=Comfortaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AB8E8,50:90C8F4,100:B0D8FF&height=200&section=header&text=Zen&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Junior%20Backend%20Developer%20%7C%20Building%20systems%20that%20scale&descAlignY=58&descSize=15&descColor=E4F4FF" width="100%"/>
 
 <br/>
 
@@ -23,7 +23,7 @@ $ ls current/
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=70&text=Building&fontSize=28&fontColor=FFFFFF&fontAlignY=44&fontAlign=50&desc=Current%20projects%20in%20progress&descAlignY=71&descSize=12&descColor=DCF0FF&fontFamily=Comfortaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=58&text=Building&fontSize=28&fontColor=FFFFFF&fontAlignY=62&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -43,7 +43,7 @@ Status : Planning
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=70&text=Stack&fontSize=28&fontColor=FFFFFF&fontAlignY=44&fontAlign=50&desc=Languages%20%C2%B7%20Frameworks%20%C2%B7%20Cloud%20%C2%B7%20Tools&descAlignY=71&descSize=12&descColor=DCF0FF&fontFamily=Comfortaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=58&text=Stack&fontSize=28&fontColor=FFFFFF&fontAlignY=62&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -78,7 +78,7 @@ Status : Planning
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=70&text=Stats&fontSize=28&fontColor=FFFFFF&fontAlignY=44&fontAlign=50&desc=GitHub%20activity%20%26%20contributions&descAlignY=71&descSize=12&descColor=DCF0FF&fontFamily=Comfortaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=58&text=Stats&fontSize=28&fontColor=FFFFFF&fontAlignY=62&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -110,7 +110,7 @@ Status : Planning
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=70&text=Contact&fontSize=28&fontColor=FFFFFF&fontAlignY=44&fontAlign=50&desc=Let%27s%20connect&descAlignY=71&descSize=12&descColor=DCF0FF&fontFamily=Comfortaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AB8E8,100:90C8F4&height=58&text=Contact&fontSize=28&fontColor=FFFFFF&fontAlignY=62&fontAlign=50" width="100%"/>
 
 <br/>
 
